@@ -17,6 +17,10 @@ class PropertyInjectedControllerTest {
 
     @Test
     void getGreeting() {
+<<<<<<< HEAD
+=======
+
+>>>>>>> tmp
         System.out.println(controller.getGreeting());
     }
 }
